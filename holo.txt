@@ -1,2 +1,1 @@
-print("Helow world")
-print("jak się masz")
++ print("Helow world")
